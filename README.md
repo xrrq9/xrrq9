@@ -1,6 +1,6 @@
-## Hi there 👋
+## Привет, я Андрей (@xrrq9 | Developer) 👋
 
-<!--
+[![](https://raw.githubusercontent.com/xrrq9/xrrq9/refs/heads/main/photo_5328148437155314049_y.jpg)](https://xrrq9.github.io)
 **xrrq9/xrrq9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
