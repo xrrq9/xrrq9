@@ -12,4 +12,6 @@
   ## 📂 Проекты
   пока нету((9(
 
-
+## 📫 Контакты
+- [Telegram @Castle_Interludee](https://t.me/Castle_Interludee)
+- [Email: xrr44591@gmail.com](mailto:xrr44591@gmail.com)
