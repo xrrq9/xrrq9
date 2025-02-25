@@ -1,16 +1,15 @@
 ## Привет, я Андрей (@xrrq9 | Developer) 👋
 
 [![](https://raw.githubusercontent.com/xrrq9/xrrq9/refs/heads/main/photo_5328148437155314049_y.jpg)](https://xrrq9.github.io)
-**xrrq9/xrrq9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Информация обо мне
+Я начинающий web разработчик/студент пока без особого опыта :p
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Навыки
+- Фреймворки: React Native, Express, Vue.js
+- Языки: JavaScript, TypeScript, node.js
+
+  ## 📂 Проекты
+  пока нету((9(
+
+
